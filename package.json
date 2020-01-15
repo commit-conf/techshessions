@@ -12,12 +12,11 @@
   ],
   "license": "Apache-2.0",
   "devDependencies": {
-    "autoprefixer": "^9.4.4",
-    "broken-link-checker": "^0.7.8",
-    "concurrently": "^3.5.1",
-    "node-sass": "^4.7.2",
-    "postcss-cli": "^6.1.1",
-    "svgo": "^1.0.5"
+    "autoprefixer": "^9.7.4",
+    "concurrently": "^5.0.2",
+    "node-sass": "^4.9.4",
+    "postcss-cli": "^7.1.0",
+    "svgo": "^1.3.2"
   },
   "scripts": {
     "compile:css": "node-sass src/scss/main.scss --output-style compressed | postcss -o static/css/main.css",
