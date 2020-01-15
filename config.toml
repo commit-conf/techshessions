@@ -1,0 +1,18 @@
+baseURL = "/"
+DefaultContentLanguage = "es"
+copyright = "Apache License 2.0"
+sectionPagesMenu = "main"
+pygmentsUseClasses=true
+disableKinds=["RSS","sitemap"]
+Title = 'Tech SHEssions'
+[Languages.en]
+  weight = 2
+  languageName = "English"
+
+[Languages.es]
+  weight = 1
+  languageName = "Español"
+
+[params]
+  ShowNextEdition = 'true'
+  RegistrationLink = 'https://docs.google.com/forms/d/e/1FAIpQLSfHH8hy17KhR14xBujBXiJQKEIPY5ggeRbAGrE3IPgdoDclnQ/viewform'

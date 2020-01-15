@@ -1,0 +1,185 @@
+[GoToTheHomepage]
+other = 'Go to the homepage'
+
+# Menu
+[JoinUs]
+other = 'Join us'
+
+# Footer
+[Contact]
+other = 'Contact'
+[Links]
+other = 'Links'
+[AboutUs]
+other = 'About us'
+
+# Home
+[DiversityGoal]
+other = 'Diversity as a goal'
+[Editions]
+other = 'Editions'
+[Mentors]
+other = 'Mentors'
+[Mentees]
+other = 'Mentees'
+[Objectives]
+other = 'Tech SHEssions objectives'
+[ObjectivesSummary]
+other = 'Tech SHEssions is a free program that seeks to empower women so they can become confident enough to participate as speakers in tech events. This program includes training in oral communication, body language, anxiety control and also difficult situations management.'
+[ProgramModel]
+other = 'To achieve that we chose the mentoring model to guide the students in their training. Mentors are IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
+[LongTermObjectives]
+other = 'In the long term, we would like these women also to be referents of their communities. We believe that having female referents in tech communities will enforce other women to participate, and will contribute to close the gender gap in the IT sector and also make more women consider working in this sector.'
+[NextEdition]
+other = 'We will <a href="https://www.meetup.com/es-ES/Tech-SHEssions/events/267803792/">present the 4th edition</a> of Tech SHEssions on <b>February 17</b> at 10:00 in Google for Startups. <a href="{{.Count}}">Join the program!</a>'
+[AvatarAlt]
+other = "{{.Count}}'s avatar"
+
+# Join the program
+[JoinTheProgramTitle]
+other = 'How do I join the program?'
+[JoinTheProgramDesc]
+other = 'Every year in February, we launched a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, our <a href="./#newsletter">newsletter</a> and our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
+[ReadTermsAndConditions]
+other = '<a href="/en/terms-and-conditions" aria-label="You can read more about joining the program here" class="button primary">Read more here</a>'
+
+# Mentees
+[OurMentees]
+other = 'Our graduates'
+[WantToBeAMentee]
+other = "Do you want to be a mentee?"
+[WantToBeAMenteeDesc]
+other = "Any woman with a technical background, interested in participating actively in communities, can be part of the program. It doesn't matter if you are a professional or a student."
+[MenteeRequirements]
+other = "What do you have to do?"
+[MenteeRequirementsDesc]
+other = '''<b>Attend talks and training activities</b> given by women who are referents in this sector. What better way to learn about oral communication skills, body language, relax techniques than listening to perts that were once beginners as well? Also, you will have to <b>prepare and present your own talks</b> with your mentor's support, always in a safe space that makes you feel confortable.'''
+
+# Mentors
+[OurMentors]
+other = 'Our mentors'
+[WantToBeAMentor]
+other = "Do you want to be a mentor?"
+[WantToBeAMentorDesc]
+other = '''You don't need any specific tech skills to be a mentor, you only need experience participating in communities or tech events. Your goal is not to give tech support but teach how to do talks, speak in public and help with their first steps full of anxiety and scenic panic.'''
+[MentorRequirements]
+other = "What do mentors do?"
+[MentorRequirementsDesc]
+other = '''You need to be in contact (remotely and/or in person) with your mentee approximately once a week or every two weeks. You will review her slides, suggest improvements, help her rehearse the presentation. And, of course, give her support. Reviews help a lot but when you are nervous, you have doubts or don't know how to move forward, something as simple as having someone supporting you is a huge help.'''
+
+# Collaborators
+[Collaborators]
+other = 'Collaborators'
+[CollaboratorsMention]
+other = 'Our most special thanks for providing the space to host our sessions:'
+
+# Newsletter
+[NewsletterTitle]
+other = 'Subscribe to our mailing list'
+[NewsletterDesc]
+other = 'Get notified when we announce changes or launch a new edition. You may unsubscribe from these communications at any time, and we do not share your information with third parties.'
+[NewsletterMore]
+other = 'For more information, check out our <a href="/privacy-policy">Privacy Policy</a>.'
+[NewsletterSubscribe]
+other = 'Subscribe to our mailing list'
+
+# Privacy Policy and cookies
+[CookieAdvice]
+other = 'We use cookies to improve our service. To review our cookie policy, <a href="/en/privacy-policy" aria-label="Review our privacy policy here">click here</a>.'
+[Accept]
+other = 'Accept'
+[PrivacyPolicyTitle]
+other = 'Privacy Policy'
+[PrivacyPolicyDesc]
+other = 'We collect information to provide better services. This page explains what information we collect and why we collect it.'
+[OrganizerIdentification]
+other = "Organizer identification"
+[OrganizerIdentificationDesc]
+other = 'Fundación Extrema, owner of the website <a href="http://techshessions.com">http://techshessions.com</a> (hereinafter Tech SHEssions), residing at 4ºI, 33 Villanueva St., 28001 Madrid; with CIF G86410040. Any inquiries may be directed to the address: <a href="mailto:info@techshessions.com">info@techshessions.com</a>.'
+[InfoWeCollect]
+other = 'Information that we collect'
+[InfoWeCollectDesc]
+other = 'We collect information in the following ways'
+[CookiesUse]
+other = '<b>Cookies</b>. We use cookies to aggregate user visits (using Google Analytics) to help us improve our service. You may configure your browser to block cookies from our website.'
+[SharingWithThirdParties]
+other = 'Sharing with third parties'
+[SharingWithThirdPartiesDesc]
+other = 'We <b>do not share personal information</b> with third parties unless one of the following circumstances applies'
+[SharingWithThirdPartiesLegalReasons]
+other = 'For <b>legal reasons</b>. We will share personal information if reasonably necessary to'
+[SharingWithThirdPartiesLegalProcess]
+other = 'Meet any applicable law or legal process.'
+[SharingWithThirdPartiesEnforceTerms]
+other = 'Enforce applicable Terms of Service, including investigation of potential violations.'
+[SharingWithThirdPartiesProtection]
+other = 'Protect against harm our users or the public as required or permitted by law.'
+[Security]
+other = 'Security'
+[SecurityDesc]
+other = 'We work to protect your data from unauthorized access by encrypting our services using SSL.'
+[PrivacyPolicyChanges]
+other = 'Changes'
+[PrivacyPolicyChangesDesc]
+other = 'Our Privacy Policy may change. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).'
+
+# Terms and conditions
+[TermsAndConditions]
+other = 'Terms and Conditions'
+[TermsAndConditionsSuffix]
+other = 'The organization reserves the right to modify these Terms and Conditions at any time and without prior notice.'
+
+[TermsAndConditionsIntro]
+other = 'Tech SHEssions is a free program altruistically organized by <a href="https://commit-conf.com">Commit</a> to help those women who want to start talking at tech events. It consists of two blocks:'
+[ProgramModelSection1]
+other = '<b>Mentoring</b>. Mentees work with their mentors to prepare talks and present them to the rest of the program. There are three talks: the first one of 10 minutes, the second one of 20, and the third one of 30. Also, they receive feedback on their presentations.'
+[ProgramModelSection2]
+other = '<b>Formativa</b>. Women give talks and webinars on useful topics for the students (how to prepare good presentations, how to overcome the fear of the stage, advice for a good speech).'
+[ProgramCalendar]
+other = 'Approximate calendar: <small>(we deliver the final calendar to the program participants)</small>'
+[Registration]
+other = 'Mid-February: presentation of the new edition and opening of the inscriptions.'
+[Start]
+other = 'End of February: the selection of participants, mentor/mentee pairings, and the start of the program.'
+[FirstTrainingTalks]
+other = 'Beginning of March: training talks'
+[FirstMenteesTalks]
+other = '''End of March: first talk (10 ') of the mentees'''
+[FirstTrainingWebinars]
+other = 'Beginning of April: training webinars'
+[SecondTrainingTalks]
+other = 'End of April: training talks'
+[SecondMenteesTalks]
+other = '''Beginning of May: second talk (20 ') of the mentees'''
+[SecondTrainingWebinars]
+other = 'End of May: training webinars'
+[ThirdTrainingTalks]
+other = 'Beginning of June: training talks'
+[ThirdMenteesTalks]
+other = '''Mid-June: third talk (30 ') of the mentees'''
+
+[Requirements]
+other = 'To participate in the TechSHEssions program, you must accept the following conditions. We require:'
+[AttendToTrainingTalks]
+other = 'Participation in training sessions.'
+[Seriousness]
+other = 'Punctuality and seriousness in the preparation and presentation of the talks.'
+[AttendToSessions]
+other = 'Attend to the sessions, both mentors and mentees.'
+[PerformTheEntireProgram]
+other = 'Perform the entire program.'
+[ShareAndLearn]
+other = 'Eager to share and learn.'
+
+[ProfileNeeded]
+other = 'What profiles can participate:'
+[MentorProfile]
+other = 'Mentor: experienced woman giving talks, technical background.'
+[MenteeProfile]
+other = 'Mentee: woman with a technical profile who wants to start giving talks at technological events.'
+
+[OrganizationRights]
+other = 'The organization decides dates and venues for the presentations of the talks. Also, if there are more applications than available places, it will distribute the available places using its criteria.'
+
+[FreeProgram]
+other = 'Tech SHEssions is an entirely free program. Nobody charges anything, nor pays anything, to participate in it.'

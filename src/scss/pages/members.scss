@@ -1,0 +1,71 @@
+$techsessions-avatar-size: 200px;
+
+.members {
+  margin-top: 2rem;
+}
+
+.member {
+  display: inline-block;
+  position: relative;
+  margin: 0 1rem 1rem 0;
+  .data {
+    visibility: hidden;
+    opacity: 0;
+    transition: all .2s ease-in;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    display: flex;
+    background: rgba($white, .7);
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+  }
+  &:hover, &:focus, &:active {
+    .data {
+      opacity: 1;
+      visibility: visible;
+    }
+  }
+  > .avatar {
+    width: $techsessions-avatar-size;
+    max-width: $techsessions-avatar-size;
+  }
+  
+}
+
+.year {
+  color: $black;
+}
+
+.lazy-avatar-spinner {
+  position: absolute;
+  width: $techsessions-avatar-size;
+  height: $techsessions-avatar-size;
+  background-color: $gray-light;
+  border-radius: 500%;  
+  -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
+  animation: sk-scaleout 1.0s infinite ease-in-out;
+}
+
+@-webkit-keyframes sk-scaleout {
+  0% { -webkit-transform: scale(0) }
+  100% {
+    -webkit-transform: scale(1.0);
+    opacity: 0;
+  }
+}
+
+@keyframes sk-scaleout {
+  0% { 
+    -webkit-transform: scale(0);
+    transform: scale(0);
+  } 100% {
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);
+    opacity: 0;
+  }
+}

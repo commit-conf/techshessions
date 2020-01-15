@@ -1,0 +1,27 @@
+{{ define "main"}}
+<section class="content">
+  <h1 class="lead">Page not found</h1>
+  <p class="highlight">
+    Sorry, but we could not find the page that you are looking for. <a href="/">Go to the homepage</a>
+  </p>
+  <p class="text-center">
+    <img src="/img/404.svg" class="not-found" />
+  </p>
+  {{  range $index, $element := $.Site.Data.womensintech }}
+    <div class="random-entry{{if ne $index 0}} hidden{{end}}">
+      <p>
+        In the meantime, learn something about <b>{{.name}}</b>:
+      </p>
+      <quote>
+        <p>{{.bio}}</p>
+        <p class="quote-source">Via <a href={{.source}}>Wikipedia</a></p>
+      </quote>
+    </div>
+  {{ end }} 
+</section>
+{{ end }}
+
+{{ define "js" }}
+<script src="/js/random-entry.js" defer>
+</script>
+{{ end }}

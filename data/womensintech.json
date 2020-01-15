@@ -1,0 +1,53 @@
+[{
+  "name": "Williamina Fleming",
+  "bio": "Williamina Paton Stevens Fleming was a Scottish astronomer. During her career, she helped develop a common designation system for stars and cataloged thousands of stars and other astronomical phenomena. Among several career achievements that advanced astronomy, Fleming is noted for her discovery of the Horsehead Nebula in 1888.",
+  "source": "https://en.wikipedia.org/wiki/Williamina_Fleming"
+}, {
+  "name": "Ada Lovelace",
+  "bio": "Augusta Ada King, Countess of Lovelace was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine. She was the first to recognise that the machine had applications beyond pure calculation, and published the first algorithm intended to be carried out by such a machine. As a result, she is sometimes regarded as the first to recognise the full potential of a \"computing machine\" and one of the first computer programmers.",
+  "source": "https://en.wikipedia.org/wiki/Ada_Lovelace"
+}, {
+  "name": "Grace Hopper",
+  "bio": "Grace Brewster Murray Hopper was an American computer scientist and United States Navy rear admiral. One of the first programmers of the Harvard Mark I computer, she was a pioneer of computer programming who invented one of the first linkers. She popularized the idea of machine-independent programming languages, which led to the development of COBOL.",
+  "source": "https://en.wikipedia.org/wiki/Grace_Hopper"
+}, { 
+  "name": "Annie Easley",
+  "bio": "Annie J. Easley was an African-American computer scientist, mathematician, and rocket scientist. She worked for the Lewis Research Center (now Glenn Research Center) of the National Aeronautics and Space Administration (NASA) and its predecessor, the National Advisory Committee for Aeronautics (NACA). She was a leading member of the team which developed software for the Centaur rocket stage, and was one of the first African-Americans to work as a computer scientist at NASA.",
+  "source": "https://en.wikipedia.org/wiki/Annie_Easley"
+}, {
+  "name": "Mary Allen Wilkes",
+  "bio": "Mary Allen Wilkes is a former computer programmer and logic designer, most known for her work with the LINC computer, now recognized by many as the world's first \"personal computer\". Initially, Wilkes planned to be lawyer, but was discouraged by friends and mentors from pursuing law because of the challenges women faced in the field. A geography teacher in the eighth grade had told Wilkes, \"Mary Allen, when you grow up, you ought to be a computer programmer.\" She worked in the field as one of the first programmers for a number of years before pursuing law and becoming an attorney in 1975.",
+  "source": "https://en.wikipedia.org/wiki/Mary_Allen_Wilkes"
+}, {
+  "name": "Adele Goldberg",
+  "bio": "Adele Goldberg is a computer scientist who participated in developing the programming language Smalltalk-80 and various concepts related to object-oriented programming while a researcher at the Xerox Palo Alto Research Center (PARC), in the 1970s.\nMany of the concepts developed by Goldberg and her team at PARC became the basis for graphically based user interfaces, replacing the earlier command line based systems. Apple eventually used many of the ideas in the Alto and their implementations as the basis for their Apple Macintosh desktop environment.",
+  "source": "https://en.wikipedia.org/wiki/Adele_Goldberg_(computer_scientist)"
+}, {
+  "name": "Joan Ball",
+  "bio": "Ball was a successful entrepreneur who was the first person of any gender to run a commercially viable computer dating service in either the UK or the USA. Her company predated Harvard's \"Operation Match\" by a year and preceded the other major British computer dating company, Dateline (run by John Patterson). Com-Pat operated under Ball's management for nearly a decade, until she was eventually bought out by Dateline in 1974. Ball's experience shows that, contrary to popular narratives on the web, women were in fact early pioneers in the field of computer dating and social networking by computer.",
+  "source": "https://en.wikipedia.org/wiki/Joan_Ball"
+}, {
+  "name": "Karen Spärk Jones",
+  "bio": "Karen Spärck Jones FBA was a pioneering British computer scientist. Her main research interests, since the late 1950s, were natural language processing and information retrieval. One of her most important contributions was the concept of inverse document frequency (IDF) weighting in information retrieval, which she introduced in a 1972 paper. IDF is used in most search engines today, usually as part of the tf-idf weighting scheme.",
+  "source": "https://en.wikipedia.org/wiki/Karen_Sp%C3%A4rck_Jones"
+}, {
+  "name": "Elizabeth \"Jake\" Feinler",
+  "bio": "Elizabeth Jocelyn \"Jake\" Feinler is an American information scientist. From 1972 until 1989 she was director of the Network Information Systems Center at the Stanford Research Institute (SRI International). Her group operated the Network Information Center (NIC) for the ARPANET as it evolved into the Defense Data Network (DDN) and the Internet.",
+  "source": "https://en.wikipedia.org/wiki/Elizabeth_J._Feinler"
+}, {
+  "name": "Carol Shaw",
+  "bio": "Carol Shaw was one of the first female game designers and programmers in the video game industry. She is best known for creating the Atari 2600 vertically scrolling shooter River Raid (1982) for Activision. She worked for Atari, Inc. from 1978-1980 where she designed multiple games including 3-D Tic-Tac-Toe (1978) and Video Checkers (1980), both for the Atari 2600.",
+  "source": "https://en.wikipedia.org/wiki/Carol_Shaw"
+}, {
+  "name": "Susan Kare",
+  "bio": "Susan Kare is an artist and graphic designer best known for her interface elements and typeface contributions to the first Apple Macintosh in the 1980s. She was also Creative Director (and one of the original employees) at NeXT, the company formed by Steve Jobs after he left Apple in 1985. She has worked for Microsoft, IBM, Pinterest and Facebook.",
+  "source": "https://en.wikipedia.org/wiki/Susan_Kare"
+}, {
+  "name": "Donna Dubinsky",
+  "bio": "Donna Dubinsky is an American business leader who played an integral role in the development of personal digital assistants (PDAs) serving as CEO of Palm, Inc. and co-founding Handspring with Jeff Hawkins in 1995. Dubinsky co-founded Numenta in 2005 with Hawkins and Dileep George, based in Redwood City, CA. Numenta was founded to develop machine intelligence based on the principles of the neocortex. Dubinsky currently serves as CEO and board chair of Numenta.",
+  "source": "https://en.wikipedia.org/wiki/Donna_Dubinsky"
+}, {
+  "name": "Megan Smith",
+  "bio": "Megan J. Smith was the third Chief Technology Officer of the United States (U.S. CTO) and Assistant to the President, serving under President Barack Obama. She was previously a vice president at Google, leading new business development and early-stage partnerships across Google's global engineering and product teams at Google for nine years, was general manager of Google.org, a vice president at Google and the former CEO of Planet Out. She serves on the boards of MIT and Vital Voices, was a member of the USAID Advisory Committee on Voluntary Aid and co-founded the Malala Fund.",
+  "source": "https://en.wikipedia.org/wiki/Megan_Smith"
+}]   

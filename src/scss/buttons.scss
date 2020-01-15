@@ -1,0 +1,45 @@
+$button-bg: $gray-lighter;
+$button-color: $black;
+$button-primary-bg: $blue;
+$button-primary-color: $white;
+
+.button {
+  padding: 10px 20px;
+  border-radius: 3px;
+  display: inline-block;
+  text-decoration: none;
+  border: 1px solid darken($button-bg, 10%);
+  border-bottom-width: 3px;
+  background: $button-bg;
+  color: $button-color;
+  margin: 0 .5rem 1rem 0;
+
+  &:focus, &:hover, &:active {
+    background-color: darken($button-bg, 5%);
+    color: $button-color;
+  } 
+  &.primary {
+    background: $button-primary-bg;
+    color: $button-primary-color;
+    border-color: darken($button-primary-bg, 10%);
+    &:focus, &:hover, &:active {
+      background-color: darken($button-primary-bg, 5%);
+      color: $button-primary-color;
+    } 
+  }
+}
+
+.button-small {
+  font-family: $heavyFontFamily;
+  font-size: 77%;
+  font-weight: 300;
+  text-transform: uppercase;
+  display: block;
+}
+
+// a bar of buttons
+.actions {
+  margin-top: $section-vertical-margin;
+  text-align: left;
+}
+
