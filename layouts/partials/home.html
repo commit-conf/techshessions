@@ -13,11 +13,9 @@
       <span class="hero-body content">{{i18n "DiversityGoal"}}</span>
       <div class="content numbers">
         {{ $years := slice }}
-        {{ range $.Site.Data.members.mentors }}
-          {{ range (split .year "/") }}
-            {{ if not (in $years .) }}
-              {{ $years = $years | append .}}
-            {{ end }}
+        {{ range $.Site.Data.members.mentees }}
+          {{ if not (in $years .year) }}
+            {{ $years = $years | append .year}}
           {{ end }}
         {{ end }}
         {{ $years := dict "name" "Editions" "value" (len $years) }}
