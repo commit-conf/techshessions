@@ -40,5 +40,14 @@ jobs:
           version: 0.62.2
           image: alpine
           env: production
-      - name: deploy to gh-pages
-        run: ./bin/deploy
+      - uses: actions/checkout@v2
+        with:
+          path: .gh-pages
+          ref: gh-pages
+      - run: |
+          cd .gh-pages
+          rm -r *
+          cp -R ../public/* .
+          git add -A
+          git commit -m "${1:-Update gh-pages}"
+          git push
