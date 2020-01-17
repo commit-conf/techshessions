@@ -3,7 +3,7 @@
 const sharp = require("sharp");
 const fs = require("fs");
 
-function optimize({ sourceDir, size, crop }) {
+function optimize({ sourceDir, size, avatar }) {
   const destinationDir = sourceDir.replace("/original", "");
   return new Promise((resolve, reject) => {
     fs.readdir(sourceDir, function(err, files) {
@@ -16,8 +16,11 @@ function optimize({ sourceDir, size, crop }) {
         if (file.endsWith(".svg")) {
           fs.copyFileSync(`${sourceDir}/${file}`, `${destinationDir}/${file}`);
         } else {
-          let result = sharp(`${sourceDir}/${file}`).resize(size, size);
-          if (crop) {
+          let result = sharp(`${sourceDir}/${file}`).resize(
+            size,
+            avatar ? size : undefined
+          );
+          if (avatar) {
             result = result.extract({
               width: size,
               height: size,
@@ -44,11 +47,11 @@ return Promise.all([
   optimize({
     sourceDir: "static/img/members/original",
     size: 200,
-    crop: true
+    avatar: true
   }),
   optimize({
     sourceDir: "static/img/collaborators/original",
     size: 260,
-    crop: false
+    avatar: false
   })
 ]);
