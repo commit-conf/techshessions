@@ -24,7 +24,7 @@
     "postversion": "git push && git push --tags",
     "watch:css": "npm run compile:css && inotifywait -m -r -e modify,create,delete ./src/scss/ | while read NEWFILE; do npm run compile:css; done",
     "watch": "concurrently \"npm run watch:css\" \"hugo server --log --bind=0.0.0.0\" \"xdg-open http://localhost:1313/\"",
-    "build": "npm run compile:css && hugo -d _build"
+    "build": "npm run compile:css && hugo"
   },
   "browserslist": [
     "last 2 version",

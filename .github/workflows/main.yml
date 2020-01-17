@@ -46,8 +46,8 @@ jobs:
           ref: gh-pages
       - run: |
           cd .gh-pages
-          rm -r *
+          rm -rf *
           cp -R ../public/* .
           git add -A
-          git commit -m "${1:-Update gh-pages}"
+          git commit -m "CI - Update gh-pages"
           git push
