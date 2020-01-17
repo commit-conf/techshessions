@@ -16,7 +16,7 @@ rm -rf *
 rm -rf .github
 cp -R ../public/* .
 git add -A
-git commit -m "${git log origin/master -1 --pretty=%B}"
+git commit -m "$(git log origin/master -1 --pretty=%B)"
 git push
 
 cd ..
