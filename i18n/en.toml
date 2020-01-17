@@ -39,7 +39,7 @@ other = "{{.Count}}'s avatar"
 [JoinTheProgramTitle]
 other = 'How do I join the program?'
 [JoinTheProgramDesc]
-other = 'Every year in February, we launched a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, our <a href="./#newsletter">newsletter</a> and our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
+other = 'Every year in February, we launch a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, in the <a href="./#newsletter">newsletter</a> and on our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
 [ReadTermsAndConditions]
 other = '<a href="/en/terms-and-conditions" aria-label="You can read more about joining the program here" class="button primary">Read more here</a>'
 
@@ -49,7 +49,7 @@ other = 'Our graduates'
 [WantToBeAMentee]
 other = "Do you want to be a mentee?"
 [WantToBeAMenteeDesc]
-other = "Any woman with a technical background, interested in participating actively in communities, can be part of the program. It doesn't matter if you are a professional or a student."
+other = "Any woman with a technical background, interested in actively participating in communities, can be part of the program. It doesn't matter if you are a professional or a student."
 [MenteeRequirements]
 other = "What do you have to do?"
 [MenteeRequirementsDesc]
