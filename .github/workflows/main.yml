@@ -40,3 +40,5 @@ jobs:
           version: 0.62.2
           image: alpine
           env: production
+      - name: deploy to gh-pages
+        run: ./bin/deploy
