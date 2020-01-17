@@ -40,11 +40,17 @@ jobs:
           version: 0.62.2
           image: alpine
           env: production
-      - uses: actions/checkout@v1.2.0
+      - uses: actions/checkout@v2
+        name: Checkout gh-pages branch
         with:
           path: .gh-pages
           ref: gh-pages
-      - run: |
+      - name: Setup git user
+        run: |
+            git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+            git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+      - name: deploy
+        run: |
           cd .gh-pages
           rm -rf *
           cp -R ../public/* .
