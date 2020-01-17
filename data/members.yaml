@@ -66,20 +66,31 @@ mentees:
   - name: Mónica Martín
     twitter: mortadelageek
     avatar: monica.martin.jpg
+    year: 2019 
+  - name: Lola Villalobos
+    avatar: lola.villalobos.jpg
+    year: 2019  
+  - name: Ruth Prada
+    twitter: rprada
+    avatar: ruth.prada.jpg
+    year: 2019
+  - name: Mireia Collado
+    twitter: micoru90
+    avatar: mireia-collado.jpg
     year: 2019  
 mentors:
   - name: Laura Morillo-Velarde Rodríguez
     twitter: Laura_Morillo
     avatar: laura-morillo.jpg
-    year: 2017/2018
+    year: 2017/2018/2019
   - name: Isabel Cabezas
     twitter: isabelcabezasm
     avatar: isabel-cabezas.jpg
-    year: 2017/2018
+    year: 2017/2018/2019
   - name: Nerea Luis Mingueza
     twitter: sailormerqury
     avatar: nerea-luis.jpg
-    year: 2017/2018
+    year: 2017/2018/2019
   - name: Laura Lacarra Arcos
     twitter: lauralacarra
     avatar: laura-lacarra.jpg
@@ -99,11 +110,11 @@ mentors:
   - name: Alicia Pérez
     twitter: alipeji
     avatar: alicia-perez.jpg
-    year: 2018
+    year: 2018/2019
   - name: Alba Roza Suárez
     twitter: alba_roza
     avatar: alba-roza.jpg
-    year: 2018
+    year: 2018/2019
   - name: Patricia López Gómez
     twitter: NeurocoachPatri
     avatar: patricia-lopez.jpg
@@ -111,7 +122,7 @@ mentors:
   - name: Lourdes Martínez
     twitter: Lour_Martinez
     avatar: lourdes-martinez.jpg
-    year: 2018
+    year: 2018/2019
   - name: Rosario Ortiz
     twitter: Rosario_Ort
     avatar: rosario-ortiz.jpg
@@ -119,11 +130,11 @@ mentors:
   - name: Fina Pérez
     twitter: finuka
     avatar: fina-perez.jpg
-    year: 2018
+    year: 2018/2019
   - name: Luna Garrido
     twitter: LunaGarridoLpez
     avatar: luna-garrido.jpg
-    year: 2018
+    year: 2018/2019
   - name: Paola García
     twitter: gGarciaPaola
     avatar: paola-garcia.jpg
@@ -138,4 +149,20 @@ mentors:
     year: 2019
   - name: Reme Martínez 
     avatar: reme.martinez.jpg
-    year: 2019  
+    year: 2019
+  - name: Silvia López Serra 
+    twitter: slopezserra
+    avatar: silvia-lopez.jpg
+    year: 2019
+  - name: Debora Gómez 
+    twitter: dgomezdebora
+    avatar: debora.gomez.jpg
+    year: 2019 
+  - name: Alicia Doblas 
+    avatar: alicia-doblas.jpg
+    year: 2019 
+ - name: Plata - Eun Young Cho
+    twitter: eunEsPlata
+    avatar: eun-young-cho.jpg
+    year: 2019   
+    
