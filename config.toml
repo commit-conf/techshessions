@@ -5,6 +5,7 @@ sectionPagesMenu = "main"
 pygmentsUseClasses=true
 disableKinds=["RSS","sitemap"]
 Title = 'Tech SHEssions'
+
 [Languages.en]
   weight = 2
   languageName = "English"
