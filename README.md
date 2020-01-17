@@ -35,7 +35,7 @@ bin/deploy
 
   - ShowNextEdition: When this param has a value (true, for example), we show the `NextEdition` entry (inside i18n files) as a message in several places of the web, linking to the `RegistrationLink` page.
 
-- Mentors and mentees are inside [data/members.yaml](data/members.yaml). The avatar should be a filename located at [static/img/members](static/img/members), but we show a default avatar if we do not find the image. Images must be squared and have min 200px. Tiwtter account is not required.
+- Mentors and mentees are inside [data/members.yaml](data/members.yaml). The avatar should be a filename located at [static/img/members/original](static/img/members/original), but we show a default avatar if we do not find the image. Images must be squared and have min 200px. Tiwtter account is not required.
 
 - Collaborators. Same as mentors/mentees, but the info file is [data/collaborators.yaml](data/collaborators.yaml) and images should be located at [static/img/collaborators](static/img/collaborators).
 
