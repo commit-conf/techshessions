@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    name: Build & deploy website
+    name: Build website
     runs-on: ubuntu-latest
     steps:
       # you must check out the repository
@@ -40,10 +40,15 @@ jobs:
           version: 0.62.2
           image: alpine
           env: production
-      - uses: actions/checkout@v1.2.0
+      - uses: actions/checkout@v2
         with:
           path: .gh-pages
           ref: gh-pages
+  deploy:
+    needs: [build]
+    name: Deploy to gh-pages
+    runs-on: ubuntu-latest
+    steps:
       - run: |
           cd .gh-pages
           rm -rf *
