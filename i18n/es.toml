@@ -130,7 +130,7 @@ other = 'Términos y Condiciones'
 other = 'La organización se reserva el derecho a modificar estos Términos y Condiciones en cualquier momento y sin necesidad de previo aviso.'
 
 [TermsAndConditionsIntro]
-other = 'Tech SHEssions es un programa gratuito organizado de forma altruista por <a href="https://commit-conf.com">Commit</a> con el objetivo de ayudar a aquellas mujeres que desean empezar a dar charlas en eventos tecnológicos. Se compone de dos partes:'
+other = 'Tech SHEssions es un programa gratuito organizado en Madrid de forma altruista por <a href="https://commit-conf.com">Commit</a> con el objetivo de ayudar a aquellas mujeres que desean empezar a dar charlas en eventos tecnológicos. Se compone de dos partes:'
 [ProgramModelSection1]
 other = '<b>Mentoring</b>. Las alumnas trabajan con sus mentoras para preparar charlas que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
 [ProgramModelSection2]
