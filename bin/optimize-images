@@ -16,7 +16,7 @@ function optimize({ sourceDir, size, crop }) {
         if (file.endsWith(".svg")) {
           fs.copyFileSync(`${sourceDir}/${file}`, `${destinationDir}/${file}`);
         } else {
-          let result = sharp(`${sourceDir}/${file}`).resize(size);
+          let result = sharp(`${sourceDir}/${file}`).resize(size, size);
           if (crop) {
             result = result.extract({
               width: size,
