@@ -12,11 +12,12 @@ else
   git pull
 fi
 
-rm -r *
-cp -R ../_build/* .
+rm -rf *
+rm -rf .github
+cp -R ../public/* .
 git add -A
-git commit -m "${1:-Update gh-pages}"
+git commit -m "${git log origin/master -1 --pretty=%B}"
 git push
 
 cd ..
-echo "Successfully uploaded" 
+echo "Successfully deployed" 
