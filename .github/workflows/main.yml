@@ -40,7 +40,7 @@ jobs:
           version: 0.62.2
           image: alpine
           env: production
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v1.2.0
         with:
           path: .gh-pages
           ref: gh-pages
