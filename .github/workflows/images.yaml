@@ -1,23 +1,16 @@
-name: CI/CD
+name: Images optimization
 
 on:
   push:
     branches: 
       - "master"
     paths:
-      - "static/img/collaborators/*"
-      - "static/img/members/*"
-      - "data/**"
-      - "i18n/**"
-      - "content/**"
-      - "layouts/**"
-      - "src/**"
-      - "static/js/*"
-      - "config.toml"
+      - "static/img/collaborators/original/**"
+      - "static/img/members/original/**"
 
 jobs:
   build:
-    name: Build & deploy website
+    name: Optimize members and collaborators images
     runs-on: ubuntu-latest
     steps:
       # you must check out the repository
@@ -35,28 +28,14 @@ jobs:
             ${{ runner.os }}-node-
       # install node dependencies
       - run: npm i
-      # compile
-      - run: npm run compile:css
-      - name: hugo
-        uses: klakegg/actions-hugo@1.0.0
-        with:
-          version: 0.62.2
-          image: alpine
-          env: production
-      - uses: actions/checkout@v2
-        name: Checkout gh-pages branch
-        with:
-          path: .gh-pages
-          ref: gh-pages
+      # optimize images
+      - run: ./bin/optimize-images
       - name: Setup git user
         run: |
             git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
             git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
-      - name: deploy
+      - name: commit
         run: |
-          cd .gh-pages
-          rm -rf *
-          cp -R ../public/* .
           git add -A
-          git commit -m "CI - Update gh-pages"
+          git commit -m "CI - Images optimization"
           git push
