@@ -21,7 +21,7 @@ other = 'Ediciones'
 [Mentors]
 other = 'Mentoras'
 [Mentees]
-other = 'Alumnas'
+other = 'Mentees'
 [Objectives]
 other = 'Objetivos de Tech SHEssions'
 [ObjectivesSummary]
@@ -47,9 +47,9 @@ other = '<a href="/terms-and-conditions" aria-label="Lee más sobre registrarte 
 [OurMentees]
 other = 'Nuestras graduadas'
 [WantToBeAMentee]
-other = "¿Quieres ser alumna?"
+other = "¿Quieres ser mentee?"
 [WantToBeAMenteeDesc]
-other = "Cualquier mujer con un background técnico que esté interesada en participar activamente en comunidades puede formar parte del programa. No importa si eres una profesional del sector o una alumna."
+other = "Cualquier mujer con un background técnico que esté interesada en participar activamente en comunidades puede formar parte del programa. No importa si eres una profesional del sector o una estudiante."
 [MenteeRequirements]
 other = "¿Qué tendrías que hacer?"
 [MenteeRequirementsDesc]
@@ -65,7 +65,7 @@ other = 'No hace falta que tengas ninguna habilidad técnica concreta para parti
 [MentorRequirements]
 other = "¿Qué implica ser una mentora?"
 [MentorRequirementsDesc]
-other = 'Tener contacto, presencial y/o en remoto, con tu alumna aproximadamente una vez a la semana o una vez cada dos semanas. Revisar cómo va la presentación en la que está trabajando, proponerle mejoras, ayudarla a ensayar la presentación. Y, cómo no, servir de apoyo. Las revisiones ayudan muchísimo, pero los nervios no siempre atienden a razones. Cuando se tienen nervios, dudas o no se sabe cómo seguir, simplemente tener a alguien al lado apoyándote es una ayuda tremenda.'
+other = 'Tener contacto, presencial y/o en remoto, con tu mentee aproximadamente una vez a la semana o una vez cada dos semanas. Revisar cómo va la presentación en la que está trabajando, proponerle mejoras, ayudarla a ensayar la presentación. Y, cómo no, servir de apoyo. Las revisiones ayudan muchísimo, pero los nervios no siempre atienden a razones. Cuando se tienen nervios, dudas o no se sabe cómo seguir, simplemente tener a alguien al lado apoyándote es una ayuda tremenda.'
 
 # Collaborators
 [Collaborators]
@@ -132,15 +132,15 @@ other = 'La organización se reserva el derecho a modificar estos Términos y Co
 [TermsAndConditionsIntro]
 other = 'Tech SHEssions es un programa gratuito organizado en Madrid de forma altruista por <a href="https://commit-conf.com">Commit</a> con el objetivo de ayudar a aquellas mujeres que desean empezar a dar charlas en eventos tecnológicos. Se compone de dos partes:'
 [ProgramModelSection1]
-other = '<b>Mentoring</b>. Las alumnas trabajan con sus mentoras para preparar charlas que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
+other = '<b>Mentoring</b>. Las mentees trabajan con sus mentoras para preparar charlas que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
 [ProgramModelSection2]
-other = '<b>Training</b>. Se organizan charlas y webinars por mujeres sobre temas de utilidad para las alumnas (cómo preparar buenas presentaciones, cómo superar el miedo al escenario, consejos para una buena oratoria, etc.)'
+other = '<b>Training</b>. Se organizan charlas y webinars por mujeres sobre temas de utilidad para las mentees (cómo preparar buenas presentaciones, cómo superar el miedo al escenario, consejos para una buena oratoria, etc.)'
 [ProgramCalendar]
 other = 'Calendario aproximado: <small>(a las participantes del programa se les entrega el calendario definitivo)</small>'
 [Registration]
 other = 'Mediados de febrero: presentación de la nueva edición y apertura de las inscripciones.'
 [Start]
-other = 'Finales de febrero: selección de las participantes, emparejamiento mentora/mentorizada y arranque del programa.'
+other = 'Finales de febrero: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
 [FirstTrainingTalks]
 other = 'Comienzos de marzo: charlas formativas presenciales'
 [FirstMenteesTalks]
