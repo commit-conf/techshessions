@@ -2,36 +2,32 @@ $techsessions-avatar-size: 200px;
 
 .members {
   margin-top: 2rem;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fill, 200px);
+  margin-bottom: 2rem;
 }
 
 .member {
-  display: inline-block;
-  position: relative;
-  margin: 0 1rem 1rem 0;
-  .data {
-    visibility: hidden;
-    opacity: 0;
+  display: flex;
+  flex-direction: column;
+  width: 202px;
+  border: 1px solid $gray-light;
+  border-radius: 3px;
+  .data-container {
     transition: all .2s ease-in;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
     text-align: center;
+    height: 100%;
     display: flex;
-    background: rgba($white, .7);
     justify-content: center;
-    align-items: center;
     padding: 5px;
   }
-  &:hover, &:focus, &:active {
-    .data {
-      opacity: 1;
-      visibility: visible;
-    }
+  .data {
+    align-self: center;
   }
   > .avatar {
     width: $techsessions-avatar-size;
+    height: $techsessions-avatar-size;
     max-width: $techsessions-avatar-size;
   }
   
