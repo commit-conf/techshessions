@@ -9,8 +9,10 @@
       <div class="data">
         <span>
           <span>{{ $member.name }}</span>
-          <br/>
-          <small><a href="https://twitter.com/{{$member.twitter}}" target="_blank" rel="noopener noreferrer">@{{ $member.twitter }}</a></small>
+          {{ if isset $member "twitter" }}
+            <br/>
+            <small><a href="https://twitter.com/{{$member.twitter}}" target="_blank" rel="noopener noreferrer">@{{ $member.twitter }}</a></small>
+          {{ end }}
           <br/>
           {{ if isset $member "year" }}
           <small class="year">{{ $member.year }}</small>
