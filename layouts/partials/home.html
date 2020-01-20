@@ -34,14 +34,12 @@
   <div class="home-highlight">
     <section class="content">
       <h1>{{i18n "Objectives"}}</h1>
-      <div class="two-columns">
-        <div itemprop="description">
-          <p class="highlight">
-            {{ i18n "ObjectivesSummary" }}
-          </p>
-          <p>{{ i18n "ProgramModel" }}</p>
-          <p>{{ i18n "LongTermObjectives" }}</p>
-        </div>
+      <div itemprop="description">
+        <p class="highlight">
+          {{ i18n "ObjectivesSummary" }}
+        </p>
+        <p>{{ i18n "ProgramModel" }}</p>
+        <p>{{ i18n "LongTermObjectives" }}</p>
       </div>
       {{ if $.Site.Params.ShowNextEdition }}
         {{ $url := "/terms-and-conditions" | relLangURL | string }}
