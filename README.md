@@ -37,7 +37,7 @@ bin/deploy
 
 - Mentors and mentees are inside [data/members.yaml](data/members.yaml). The avatar should be a filename located at [static/img/members/original](static/img/members/original), but we show a default avatar if we do not find the image. Images must be squared and have min 200px. Tiwtter account is not required.
 
-- Collaborators. Same as mentors/mentees, but the info file is [data/collaborators.yaml](data/collaborators.yaml) and images should be located at [static/img/collaborators](static/img/collaborators).
+- Collaborators. Same as mentors/mentees, but the info file is [data/collaborators.yaml](data/collaborators.yaml) and images should be located at [static/img/collaborators/original](static/img/collaborators/original).
 
 - Menu: Links are extracted from [data/menu.yaml](data.yaml). Additionally, we will always add a language link.
 
