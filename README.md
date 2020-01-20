@@ -33,7 +33,7 @@ bin/deploy
 
   - RegistrationLink: the link to the page where someone can register for the next edition.
 
-  - ShowNextEdition: When this param has a value (true, for example), we show the `NextEdition` entry (inside i18n files) as a message in several places of the web, linking to the `RegistrationLink` page.
+  - ShowNextEdition: When this param has a value (true, for example), we show the `NextEdition` entry (inside i18n files) as a message in several places of the web, linking to the `RegistrationLink` page. Use blank string ('') to hide this message.
 
 - Mentors and mentees are inside [data/members.yaml](data/members.yaml). The avatar should be a filename located at [static/img/members/original](static/img/members/original), but we show a default avatar if we do not find the image. Images must be squared and have min 200px. Tiwtter account is not required.
 

@@ -9,7 +9,6 @@ Title = 'Tech SHEssions'
 [Languages.en]
   weight = 2
   languageName = "English"
-
 [Languages.es]
   weight = 1
   languageName = "Español"
