@@ -1,9 +1,15 @@
+
+
 .message {
   padding: .5rem 1rem;
-  background-color: $orange;
+  background-color: rgba($yellow, .3);
   border-radius: 3px;
-  border: 1px solid darken($orange, 10%);
+  border: 1px solid $yellow;
   > a {
-    color: $gray-dark;
+    color: lighten($blue-dark, 10%);
+    &:hover, &:focus {
+      background-color: #bbeffd4d;
+      color: $blue-dark;
+    }
   }
 }
