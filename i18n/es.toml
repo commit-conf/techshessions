@@ -25,11 +25,11 @@ other = 'Alumnas'
 [Objectives]
 other = 'Objetivos de Tech SHEssions'
 [ObjectivesSummary]
-other = 'Tech SHEssions es un programa gratuito que se celebra en Madrid y que pretende empoderar mujeres para que participen como ponentes en eventos tecnológicos. Este programa incluye formación en habilidades de comunicación oral, expresión corporal, control del nerviosismo y gestión de situaciones difíciles que puedan surgir.'
+other = 'Tech SHEssions es un programa gratuito que se celebra en Madrid y que pretende empoderar mujeres para que participen como ponentes en eventos tecnológicos.'
 [ProgramModel]
-other = 'Para ello hemos optado por un mentoring para guiar a la alumna en su proceso formativo. Las mentoras son mujeres profesionales del sector IT con experiencia participando en la organización de eventos tecnológicos o como ponentes en eventos de este tipo. Su misión es enseñar y apoyar a las alumnas a la hora de recorrer el camino que ellas ya han recorrido.'
+other = 'El programa incluye formación en habilidades de comunicación oral, expresión corporal, métodos para superar el stress y gestionar situaciones de conflicto.'
 [LongTermObjectives]
-other = 'A largo plazo, nos gustaría conseguir que estas mujeres también sean referentes en sus comunidades. Creemos que la existencia de referentes femeninos en las comunidades tecnológicas animará a las mujeres a participar en ellas, contribuirá a cerrar la brecha de género en el sector IT y fomentará que más mujeres consideren carreras de este sector.'
+other = 'Las mentoras de Tech SHEssions son voluntarias profesionales del sector IT con amplia experiencia participando en la organización o presentando en eventos tecnológicos. Su misión es apoyar a las mentees a la hora de recrear el camino que ellas ya han recorrido, para contribuir a cerrar la brecha de género en el sector IT y fomentar que más mujeres consideren carreras de este sector.'
 [NextEdition]
 other = '<a href="https://www.meetup.com/es-ES/Tech-SHEssions/events/267803792/">Presentaremos la IV edición</a> de Tech SHEssions el <b>17 de febrero</b> a las 19:00 en Google for Startups. <a href="{{.Count}}">¡Únete al programa!</a>'
 [AvatarAlt]
