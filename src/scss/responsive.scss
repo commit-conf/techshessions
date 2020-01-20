@@ -36,37 +36,6 @@
     margin-bottom: 0;
   }
 
-  .venue-photos {
-    display: grid;
-    grid-template-rows: 300px;
-    grid-template-columns: 40% 60%;
-
-    .venue-photo {
-      grid-row: 1;
-      grid-column: 1;
-    }
-    .venue-photo-1 {
-      height: auto;
-    }
-    .venue-photo-2 {
-      background-image: url(/img/teatro-goya-2.jpg);
-    }
-    .venue-photo-3 {
-      grid-row: 2;
-      background-image: url(/img/teatro-goya-3.jpg);
-    }
-    &.row {
-      grid-row: 1;
-      grid-column: 2;
-      display: grid;
-      grid-template-rows: 50%;
-      grid-template-columns: 100%;
-      .venue-photo {
-        border-left: 2px solid $white;
-      }
-    }
-  }
-
   .form-inline > input[type="email"] {
     width: 400px;
   }
@@ -101,12 +70,9 @@
   .two-columns {
     column-count: 2;
     column-gap: 3rem;
+    margin-bottom: 1rem;
   }
 
-  .venue-photos {
-    grid-template-rows: 534px;
-    grid-template-columns: 45% 55%;
-  }
 }
 
 // big desktop

@@ -42,11 +42,11 @@
           <p>{{ i18n "ProgramModel" }}</p>
           <p>{{ i18n "LongTermObjectives" }}</p>
         </div>
-        {{ if $.Site.Params.ShowNextEdition }}
-          {{ $url := "/terms-and-conditions" | relLangURL | string }}
-          <p class="message">{{ i18n "NextEdition" $url | safeHTML }}</p>
-        {{ end }}
       </div>
+      {{ if $.Site.Params.ShowNextEdition }}
+        {{ $url := "/terms-and-conditions" | relLangURL | string }}
+        <p class="message">{{ i18n "NextEdition" $url | safeHTML }}</p>
+      {{ end }}
       <div class="youtube-player-container text-center">
         <iframe class="youtube-player" width="560" height="315" src="https://www.youtube-nocookie.com/embed/fqv-o_UT1U8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
