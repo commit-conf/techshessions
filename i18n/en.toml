@@ -85,7 +85,7 @@ other = 'Subscribe to our mailing list'
 
 # Privacy Policy and cookies
 [CookieAdvice]
-other = 'We use cookies to improve our service. To review our cookie policy, <a href="/en/privacy-policy" aria-label="Review our privacy policy here">click here</a>.'
+other = 'This website use cookies. To review our cookie policy, <a href="/en/privacy-policy" aria-label="Review our privacy policy here">click here</a>.'
 [Accept]
 other = 'Accept'
 [PrivacyPolicyTitle]

@@ -85,7 +85,7 @@ other = 'Suscribirme a la lista de correo'
 
 # Privacy Policy and cookies
 [CookieAdvice]
-other = 'Usamos cookies para ofrecerte un mejor servicio. Para revisar nuestra política de cookies, <a href="/privacy-policy" aria-label="Revisa nuestra política de privacidad aquí">haz clic aquí</a>.'
+other = 'Este sitio web utiliza cookies. Para revisar nuestra política de cookies, <a href="/privacy-policy" aria-label="Revisa nuestra política de privacidad aquí">haz clic aquí</a>.'
 [Accept]
 other = 'Acepto'
 [PrivacyPolicyTitle]
