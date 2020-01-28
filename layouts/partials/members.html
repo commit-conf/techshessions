@@ -2,19 +2,19 @@
 <div class="members">
   {{ range $member := .members }}
     <div class="member">
-      {{ if isset $member "avatar" }}
+      {{ if $member.avatar }}
         <div class="lazy-avatar-spinner"></div>
       {{ end }}
       <img src="/img/avatar.svg" class="avatar lazy-avatar" data-avatar="/img/members/{{$member.avatar}}" alt="{{i18n "AvatarAlt" $member.name}}">
       <div class="data-container">
         <span class="data">
           <span>{{ $member.name }}</span>
-          {{ if isset $member "twitter" }}
+          {{ if $member.twitter }}
             <br/>
             <small><a href="https://twitter.com/{{$member.twitter}}" target="_blank" rel="noopener noreferrer">@{{ $member.twitter }}</a></small>
           {{ end }}
           <br/>
-          {{ if isset $member "year" }}
+          {{ if $member.year }}
           <small class="year">{{ $member.year }}</small>
           {{ end }}
         </span>
