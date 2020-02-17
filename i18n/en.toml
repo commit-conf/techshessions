@@ -31,7 +31,7 @@ other = 'This program includes training in oral communication, body language, an
 [LongTermObjectives]
 other = 'Mentors are volunteer IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
 [NextEdition]
-other = 'We will <a href="https://www.meetup.com/es-ES/Tech-SHEssions/events/267803792/">present the 4th edition</a> of Tech SHEssions on <b>February 17</b> at 7:00PM in Google for Startups. <a href="{{.Count}}">Join the program!</a>'
+other = '<a href="{{.Count}}">Join the program!</a> You can register until February 23.'
 [AvatarAlt]
 other = "{{.Count}}'s avatar"
 
