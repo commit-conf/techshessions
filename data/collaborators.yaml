@@ -1,30 +1,30 @@
 - name: Commit
   img: commit-2 (1).png
-  href: https://commit-conf.com 
-- name: BBVA Open Space
-  img: bbva-open-space.png
-  href: https://openspace.bbva.com/madrid/
+  href: https://commit-conf.com
+- name: Universidad San Pablo CEU
+  img: ceu.png
+  href: http://www.uspceu.com/
+- name: seedtag
+  img: seedtag.png
+  href: https://www.seedtag.com/
+- name: Liferay
+  img: Liferay2.jpg
+  href: https://www.liferay.com/es/home
 - name: Google for Startups
   img: GoogleForStartups.png
   href: https://www.campus.co/madrid/es
 - name: Tuenti
   img: Tuentiii.jpg
-  href: https://www.tuenti.es/
+  href: https://www.tuenti.es/  
+- name: BBVA Open Space
+  img: bbva-open-space.png
+  href: https://openspace.bbva.com/madrid/
 - name: Flagship Telefónica
   img: flagship-telefonica.png
   href: http://flagshipstore.telefonica.es/
 - name: Digital Innovation Center
   img: dic.svg
   href: https://digitalinnovationcenter.es/
-- name: seedtag
-  img: seedtag.png
-  href: https://www.seedtag.com/
 - name: Making Science
   img: making-science.jpg
   href: https://www.makingscience.com/
-- name: Universidad San Pablo CEU
-  img: ceu.png
-  href: http://www.uspceu.com/
-- name: Liferay
-  img: Liferay2.jpg
-  href: https://www.liferay.com/es/home
