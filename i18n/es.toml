@@ -77,7 +77,7 @@ other = 'Queremos agradecer especialmente a aquellos que nos han cedido el espac
 [NewsletterTitle]
 other = 'Suscríbete a nuestra lista de correo'
 [NewsletterDesc]
-other = 'Recibe una notifiación cuando anunciemos cambios o lancemos una nueva edición. Podrás desuscribirte de estas notificaciones en cualquier momento y no compartiremos tu información con terceras partes.'
+other = 'Recibe una notificación cuando anunciemos cambios o lancemos una nueva edición. Podrás desuscribirte de estas notificaciones en cualquier momento y no compartiremos tu información con terceras partes.'
 [NewsletterMore]
 other = 'Para más información, mira nuestra <a href="/privacy-policy">Política de Privacidad</a>.'
 [NewsletterSubscribe]
@@ -132,7 +132,7 @@ other = 'La organización se reserva el derecho a modificar estos Términos y Co
 [TermsAndConditionsIntro]
 other = 'Tech SHEssions es un programa gratuito organizado en Madrid de forma altruista por <a href="https://commit-conf.com">Commit</a> con el objetivo de ayudar a aquellas mujeres que desean empezar a dar charlas en eventos tecnológicos. Se compone de dos partes:'
 [ProgramModelSection1]
-other = '<b>Mentoring</b>. Las mentees trabajan con sus mentoras para preparar charlas que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
+other = '<b>Mentoring</b>. Las mentees trabajan con sus mentoras para preparar charlas (sobre la temática que prefieran) que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
 [ProgramModelSection2]
 other = '<b>Training</b>. Se organizan charlas y webinars por mujeres sobre temas de utilidad para las mentees (cómo preparar buenas presentaciones, cómo superar el miedo al escenario, consejos para una buena oratoria, etc.)'
 [ProgramCalendar]
