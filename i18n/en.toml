@@ -31,7 +31,7 @@ other = 'This program includes training in oral communication, body language, an
 [LongTermObjectives]
 other = 'Mentors are volunteer IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
 [NextEdition]
-other = 'We no longer accept registrations for 2020.'
+other = 'The program will resume in October 2023.'
 [AvatarAlt]
 other = "{{.Count}}'s avatar"
 
@@ -39,7 +39,7 @@ other = "{{.Count}}'s avatar"
 [JoinTheProgramTitle]
 other = 'How do I join the program?'
 [JoinTheProgramDesc]
-other = 'Every year in February, we launch a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, in the <a href="./#newsletter">newsletter</a> and on our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
+other = 'Every year, we launch a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, in the <a href="./#newsletter">newsletter</a> and on our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
 [ReadTermsAndConditions]
 other = '<a href="/en/terms-and-conditions" aria-label="You can read more about joining the program here" class="button primary">Read more here</a>'
 
