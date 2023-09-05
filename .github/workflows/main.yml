@@ -2,7 +2,7 @@ name: CI/CD
 
 on:
   push:
-    branches: 
+    branches:
       - "master"
     paths:
       - "static/img/collaborators/*"
@@ -25,7 +25,7 @@ jobs:
       # setup node
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 18
       # add npm cache
       - uses: actions/cache@v1
         with:

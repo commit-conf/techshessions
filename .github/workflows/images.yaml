@@ -2,7 +2,7 @@ name: Images optimization
 
 on:
   push:
-    branches: 
+    branches:
       - "master"
     paths:
       - "static/img/collaborators/original/**"
@@ -18,7 +18,7 @@ jobs:
       # setup node
       - uses: actions/setup-node@v1
         with:
-          node-version: 12
+          node-version: 18
       # add npm cache
       - uses: actions/cache@v1
         with:
@@ -32,8 +32,8 @@ jobs:
       - run: ./bin/optimize-images
       - name: Setup git user
         run: |
-            git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
-            git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
+          git config --global user.name "$(git --no-pager log --format=format:'%an' -n 1)"
+          git config --global user.email "$(git --no-pager log --format=format:'%ae' -n 1)"
       # BUG: action will not launch another actions if we used the default checkout token
       - name: Configure CI credentials
         env:
