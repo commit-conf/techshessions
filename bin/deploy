@@ -3,21 +3,30 @@
 set -e
 
 FOLDER=.gh-pages
-
+echo "Current folder: $(pwd)"
 if [ ! -d ${FOLDER} ]; then
-  git clone -b gh-pages git@github.com:commit-conf/techshessions ${FOLDER}
-  cd ${FOLDER}
-else
-  cd ${FOLDER}
-  git pull
+  # this can olny be on a local environment, not on CICD
+  echo "Warning: ${FOLDER} does not exist. Are you on CICD?"
+  exit 1
 fi
 
+# get the last commit message from the master branch
+COMMIT_MESSAGE=$(git log origin/master -1 --pretty=%B)
+
+cd ${FOLDER}
+echo "Current folder: $(pwd)"
 rm -rf *
 rm -rf .github
 cp -R ../public/* .
-git add -A
-git commit -m "$(git log origin/master -1 --pretty=%B)"
-git push
+
+# if there is anything to commit
+if [ -z "$(git status --porcelain)" ]; then
+  echo "Nothing to commit"
+else 
+  git add -A
+  git commit -m "${COMMIT_MESSAGE}"
+  git push origin gh-pages
+fi
 
 cd ..
 echo "Successfully deployed" 

@@ -20,20 +20,22 @@ jobs:
   build:
     name: Build & deploy website
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       # you must check out the repository
-      - uses: actions/checkout@v2
+      - name: Checkout master branch
+        uses: actions/checkout@v3
+      - name: Checkout gh-pages branch on subfolder
+        uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+          path: .gh-pages
       # setup node
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v3
         with:
           node-version: 18
-      # add npm cache
-      - uses: actions/cache@v1
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
+          cache: "npm"
       # install node dependencies
       - run: npm i
       # compile
@@ -47,8 +49,6 @@ jobs:
       # BUG: the checkout action token cannot launch gh-pages building process, only uploading files
       # https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/td-p/26869/highlight/true
       - name: Configure CI credentials
-        env:
-          GH_PAGES_DEPLOY_KEY: ${{ secrets.GH_PAGES_DEPLOY_KEY }}
         run: ./bin/configure-ci
       - name: deploy
         run: ./bin/deploy
