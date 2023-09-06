@@ -33,7 +33,7 @@ other = 'Las mentoras de Tech SHEssions son voluntarias profesionales del sector
 [NextEdition]
 other = 'El programa se reanudará en octubre de 2023.'
 [AvatarAlt]
-other = 'Avatar de {{.Count}}'
+other = 'Avatar de {{.Name}}'
 
 # Join the program
 [JoinTheProgramTitle]
@@ -154,7 +154,7 @@ other = '''Mediados de diciembre: segunda charla (15') de las mentees'''
 [SecondTrainingWebinars]
 other = 'Mediados de enero: charlas formativas'
 [ThirdTrainingTalks]
-other = 'Mediados de enero: tercera charla (20') de las mentees'
+other = '''Mediados de enero: tercera charla (20') de las mentees'''
 [ThirdMenteesTalks]
 other = '''Finales de enero: graduación y finalización del programa'''
 

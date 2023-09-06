@@ -33,7 +33,7 @@ other = 'Mentors are volunteer IT professionals women with experience in the org
 [NextEdition]
 other = 'The program will resume in October 2023.'
 [AvatarAlt]
-other = "{{.Count}}'s avatar"
+other = "{{.Name}}'s avatar"
 
 # Join the program
 [JoinTheProgramTitle]
@@ -154,7 +154,7 @@ other = '''Mid-December: second talk (15 ') of the mentees'''
 [SecondTrainingWebinars]
 other = 'Mid-January: training talks'
 [ThirdTrainingTalks]
-other = 'Mid-January: third talk (20 ') of the mentees'
+other = '''Mid-January: third talk (20 ') of the mentees'''
 [ThirdMenteesTalks]
 other = '''End-January: graduation and program conclusion'''
 
