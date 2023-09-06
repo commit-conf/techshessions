@@ -41,11 +41,9 @@ jobs:
       # compile
       - run: npm run compile:css
       - name: hugo
-        uses: klakegg/actions-hugo@1.0.0
+        uses: ./.github/actions/hugo
         with:
-          version: 0.62.2
           image: alpine
-          env: production
       # BUG: the checkout action token cannot launch gh-pages building process, only uploading files
       # https://github.community/t5/GitHub-Actions/Github-action-not-triggering-gh-pages-upon-push/td-p/26869/highlight/true
       - name: Configure CI credentials
