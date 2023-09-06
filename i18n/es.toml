@@ -132,31 +132,31 @@ other = 'La organización se reserva el derecho a modificar estos Términos y Co
 [TermsAndConditionsIntro]
 other = 'Tech SHEssions es un programa gratuito organizado en Madrid de forma altruista por <a href="https://commit-conf.com">Commit</a> con el objetivo de ayudar a aquellas mujeres que desean empezar a dar charlas en eventos tecnológicos. Se compone de dos partes:'
 [ProgramModelSection1]
-other = '<b>Mentoring</b>. Las mentees trabajan con sus mentoras para preparar charlas (sobre la temática que prefieran) que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 20 y la tercera de 30. Además, recibirán feedback sobre sus presentaciones.'
+other = '<b>Mentoring</b>. Las mentees trabajan con sus mentoras para preparar charlas (sobre la temática que prefieran) que presentarán al resto del programa. Consta de tres charlas: una primera de 10 minutos, la segunda de 15 y la tercera de 20. Además, recibirán feedback sobre sus presentaciones.'
 [ProgramModelSection2]
 other = '<b>Training</b>. Se organizan charlas y webinars por mujeres sobre temas de utilidad para las mentees (cómo preparar buenas presentaciones, cómo superar el miedo al escenario, consejos para una buena oratoria, etc.)'
 [ProgramCalendar]
 other = 'Calendario aproximado: <small>(a las participantes del programa se les entrega el calendario definitivo)</small>'
 [Registration]
-other = 'Mediados de febrero: presentación de la nueva edición y apertura de las inscripciones.'
+other = 'Comienzos de octubre: presentación de la nueva edición y apertura de las inscripciones.'
 [Start]
-other = 'Finales de febrero: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
+other = 'Comienzos de octubre: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
 [FirstTrainingTalks]
-other = 'Comienzos de marzo: charlas formativas presenciales'
+other = 'Mediados de octubre: charlas formativas'
 [FirstMenteesTalks]
-other = '''Finales de marzo: primera charla (10') de las mentees'''
+other = '''Comienzos de noviembre: primera charla (10') de las mentees'''
 [FirstTrainingWebinars]
-other = 'Comienzos de abril: webinars formativos'
+other = 'Mediados de noviembre: charlas formativas'
 [SecondTrainingTalks]
-other = 'Finales de abril: charlas formativas presenciales'
+other = 'Mediados de diciembre: charlas formativas'
 [SecondMenteesTalks]
-other = '''Comienzos de mayo: segunda charla (20') de las mentees'''
+other = '''Mediados de diciembre: segunda charla (15') de las mentees'''
 [SecondTrainingWebinars]
-other = 'Finales de mayo: webinars formativos'
+other = 'Mediados de enero: charlas formativas'
 [ThirdTrainingTalks]
-other = 'Comienzos de junio: charlas formativas presenciales'
+other = 'Mediados de enero: tercera charla (20') de las mentees'
 [ThirdMenteesTalks]
-other = '''Mediados de junio: tercera charla (30') de las mentees'''
+other = '''Finales de enero: graduación y finalización del programa'''
 
 [Requirements]
 other = 'Para participar en el programa TechSHEssions, debes aceptar las siguiente condiciones. Pedimos:'
