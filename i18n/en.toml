@@ -138,25 +138,25 @@ other = '<b>Training</b>. Women give talks and webinars on useful topics for the
 [ProgramCalendar]
 other = 'Approximate calendar: <small>(we deliver the final calendar to the program participants)</small>'
 [Registration]
-other = 'Mid-February: presentation of the new edition and opening of the inscriptions.'
+other = 'Beg-October: presentation of the new edition and opening of the inscriptions.'
 [Start]
-other = 'End of February: the selection of participants, mentor/mentee pairings, and the start of the program.'
+other = 'Beg-October: the selection of participants, mentor/mentee pairings, and the start of the program.'
 [FirstTrainingTalks]
-other = 'Beginning of March: training talks'
+other = 'Mid-October: training talks'
 [FirstMenteesTalks]
-other = '''End of March: first talk (10 ') of the mentees'''
+other = '''Beg-November: first talk (10 ') of the mentees'''
 [FirstTrainingWebinars]
-other = 'Beginning of April: training webinars'
+other = 'Mid-November: training talks'
 [SecondTrainingTalks]
-other = 'End of April: training talks'
+other = 'Mid-December: training talks'
 [SecondMenteesTalks]
-other = '''Beginning of May: second talk (20 ') of the mentees'''
+other = '''Mid-December: second talk (15 ') of the mentees'''
 [SecondTrainingWebinars]
-other = 'End of May: training webinars'
+other = 'Mid-January: training talks'
 [ThirdTrainingTalks]
-other = 'Beginning of June: training talks'
+other = 'Mid-January: third talk (20 ') of the mentees'
 [ThirdMenteesTalks]
-other = '''Mid-June: third talk (30 ') of the mentees'''
+other = '''End-January: graduation and program conclusion'''
 
 [Requirements]
 other = 'To participate in the TechSHEssions program, you must accept the following conditions. We require:'
