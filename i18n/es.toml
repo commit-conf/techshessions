@@ -142,19 +142,17 @@ other = 'Comienzos de octubre: presentación de la nueva edición y apertura de 
 [Start]
 other = 'Comienzos de octubre: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
 [FirstTrainingTalks]
-other = 'Mediados de octubre: charlas formativas'
+other = 'Finales de octubre: charlas formativas'
 [FirstMenteesTalks]
-other = '''Comienzos de noviembre: primera charla (10') de las mentees'''
+other = '''Mediados de noviembre: primera charla (10') de las mentees'''
 [FirstTrainingWebinars]
-other = 'Mediados de noviembre: charlas formativas'
-[SecondTrainingTalks]
 other = 'Mediados de diciembre: charlas formativas'
+[SecondTrainingTalks]
+other = 'Mediados de diciembre: segunda charla (15') de las mentees'
 [SecondMenteesTalks]
-other = '''Mediados de diciembre: segunda charla (15') de las mentees'''
-[SecondTrainingWebinars]
 other = 'Mediados de enero: charlas formativas'
 [ThirdTrainingTalks]
-other = '''Mediados de enero: tercera charla (20') de las mentees'''
+other = '''Finales de enero: tercera charla (20') de las mentees'''
 [ThirdMenteesTalks]
 other = '''Finales de enero: graduación y finalización del programa'''
 
@@ -179,7 +177,7 @@ other = 'Mentora: mujer con experiencia dando charlas, background técnico.'
 other = 'Mentee: mujer con perfil técnico que desea empezar a dar charlas en eventos tecnológicos.'
 
 [OrganizationRights]
-other = 'La organización decide las fechas y los lugares para las presentaciones de las charlas. Todas las actividades suelen realizarse de martes a jueves, en horario 18:30-21:30. Si hubiese más solicitudes que plazas disponibles, la organización distribuirá las plazas disponibles empleando su criterio.'
+other = 'La organización decide las fechas y los lugares para las presentaciones de las charlas. Todas las actividades suelen realizarse de martes a jueves, en horario 18:00-21:30. Si hubiese más solicitudes que plazas disponibles, la organización distribuirá las plazas disponibles empleando su criterio.'
 
 [FreeProgram]
 other = 'Tech SHEssions es un programa totalmente gratuito. Nadie cobra nada, ni paga nada, por participar en ello.'

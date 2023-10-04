@@ -142,19 +142,17 @@ other = 'Beg-October: presentation of the new edition and opening of the inscrip
 [Start]
 other = 'Beg-October: the selection of participants, mentor/mentee pairings, and the start of the program.'
 [FirstTrainingTalks]
-other = 'Mid-October: training talks'
+other = 'End-October: training talks'
 [FirstMenteesTalks]
-other = '''Beg-November: first talk (10 ') of the mentees'''
+other = '''Mid-November: first talk (10 ') of the mentees'''
 [FirstTrainingWebinars]
-other = 'Mid-November: training talks'
-[SecondTrainingTalks]
 other = 'Mid-December: training talks'
+[SecondTrainingTalks]
+other = 'Mid-December: second talk (15 ') of the mentees'
 [SecondMenteesTalks]
-other = '''Mid-December: second talk (15 ') of the mentees'''
-[SecondTrainingWebinars]
 other = 'Mid-January: training talks'
 [ThirdTrainingTalks]
-other = '''Mid-January: third talk (20 ') of the mentees'''
+other = '''End-January: third talk (20 ') of the mentees'''
 [ThirdMenteesTalks]
 other = '''End-January: graduation and program conclusion'''
 
@@ -179,7 +177,7 @@ other = 'Mentor: experienced woman giving talks, technical background.'
 other = 'Mentee: woman with a technical profile who wants to start giving talks at technological events.'
 
 [OrganizationRights]
-other = 'The organization decides dates and venues for the presentations of the talks. All activities usually take place from Tuesday to Thursday, from 6:30 p.m. to 9:30 p.m. If there are more applications than available places, the organization will distribute the places using its own criteria.'
+other = 'The organization decides dates and venues for the presentations of the talks. All activities usually take place from Tuesday to Thursday, from 6:00 p.m. to 9:30 p.m. If there are more applications than available places, the organization will distribute the places using its own criteria.'
 
 [FreeProgram]
 other = 'Tech SHEssions is an entirely free program. Nobody charges anything, nor pays anything, to participate in it.'
