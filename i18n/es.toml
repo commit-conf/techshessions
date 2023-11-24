@@ -144,17 +144,17 @@ other = 'Comienzos de octubre: selección de las participantes, emparejamiento m
 [FirstTrainingTalks]
 other = 'Finales de octubre: charlas formativas'
 [FirstMenteesTalks]
-other = '''Mediados de noviembre: primera charla (10') de las mentees'''
+other = 'Mediados de noviembre: primera charla (10m) de las mentees'
 [FirstTrainingWebinars]
 other = 'Mediados de diciembre: charlas formativas'
 [SecondTrainingTalks]
-other = 'Mediados de diciembre: segunda charla (15') de las mentees'
+other = 'Mediados de diciembre: segunda charla (15m) de las mentees'
 [SecondMenteesTalks]
 other = 'Mediados de enero: charlas formativas'
 [ThirdTrainingTalks]
-other = '''Finales de enero: tercera charla (20') de las mentees'''
+other = 'Finales de enero: tercera charla (20m) de las mentees'
 [ThirdMenteesTalks]
-other = '''Finales de enero: graduación y finalización del programa'''
+other = 'Finales de enero: graduación y finalización del programa'
 
 [Requirements]
 other = 'Para participar en el programa TechSHEssions, debes aceptar las siguiente condiciones. Pedimos:'
