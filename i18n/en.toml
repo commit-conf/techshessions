@@ -144,15 +144,15 @@ other = 'Beg-October: the selection of participants, mentor/mentee pairings, and
 [FirstTrainingTalks]
 other = 'End-October: training talks'
 [FirstMenteesTalks]
-other = '''Mid-November: first talk (10 ') of the mentees'''
+other = '''Mid-November: first talk (10m) of the mentees'''
 [FirstTrainingWebinars]
 other = 'Mid-December: training talks'
 [SecondTrainingTalks]
-other = 'Mid-December: second talk (15 ') of the mentees'
+other = 'Mid-December: second talk (15m) of the mentees'
 [SecondMenteesTalks]
 other = 'Mid-January: training talks'
 [ThirdTrainingTalks]
-other = '''End-January: third talk (20 ') of the mentees'''
+other = '''End-January: third talk (20m) of the mentees'''
 [ThirdMenteesTalks]
 other = '''End-January: graduation and program conclusion'''
 
