@@ -31,7 +31,7 @@ other = 'This program includes training in oral communication, body language, an
 [LongTermObjectives]
 other = 'Mentors are volunteer IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
 [NextEdition]
-other = 'The registrations for the next edition are closed.'
+other = 'The registrations for the next edition will open in September, 2025.'
 [AvatarAlt]
 other = "{{.Name}}'s avatar"
 
@@ -95,7 +95,7 @@ other = 'We collect information to provide better services. This page explains w
 [OrganizerIdentification]
 other = "Organizer identification"
 [OrganizerIdentificationDesc]
-other = 'Fundación Extrema, owner of the website <a href="http://techshessions.com">http://techshessions.com</a> (hereinafter Tech SHEssions), residing at 4ºI, 33 Villanueva St., 28001 Madrid; with CIF G86410040. Any inquiries may be directed to the address: <a href="mailto:info@techshessions.com">info@techshessions.com</a>.'
+other = 'Fundación Extrema, owner of the website <a href="http://techshessions.com">http://techshessions.com</a> (hereinafter Tech SHEssions), residing at Paseo de la Ermita del Santo, 40, Local 1, 28010 Madrid; with CIF G86410040. Any inquiries may be directed to the address: <a href="mailto:info@techshessions.com">info@techshessions.com</a>.'
 [InfoWeCollect]
 other = 'Information that we collect'
 [InfoWeCollectDesc]

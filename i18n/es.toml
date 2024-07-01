@@ -31,7 +31,7 @@ other = 'El programa incluye formación en habilidades de comunicación oral, ex
 [LongTermObjectives]
 other = 'Las mentoras de Tech SHEssions son voluntarias profesionales del sector IT con amplia experiencia participando en la organización o presentando en eventos tecnológicos. Su misión es apoyar a las mentees a la hora de recrear el camino que ellas ya han recorrido, para contribuir a cerrar la brecha de género en el sector IT y fomentar que más mujeres consideren carreras de este sector.'
 [NextEdition]
-other = 'Inscripciones cerradas para la próxima edición'
+other = 'Las inscripciones para la próxima edición abrirán en septiembre 2025.'
 [AvatarAlt]
 other = 'Avatar de {{.Name}}'
 
@@ -95,7 +95,7 @@ other = 'Recopilamos información para mejorar nuestros servicios. Esta página 
 [OrganizerIdentification]
 other = "Identificación de la organización"
 [OrganizerIdentificationDesc]
-other = 'Fundación Extrema, dueño del sitio web <a href="http://techshessions.com">http://techshessions.com</a> (en adelante Tech SHEssions), con sede en la calle Villanueva 33, 4º izqda, 28001 Madrid; y CIF G86410040. Cualquier incidencia debe ser dirigida a la dirección: <a href="mailto:info@techshessions.com">info@techshessions.com</a>.'
+other = 'Fundación Extrema, dueño del sitio web <a href="http://techshessions.com">http://techshessions.com</a> (en adelante Tech SHEssions), con sede en Paseo de la Ermita del Santo, 40, Local 1, 28010 Madrid; y CIF G86410040. Cualquier incidencia debe ser dirigida a la dirección: <a href="mailto:info@techshessions.com">info@techshessions.com</a>.'
 [InfoWeCollect]
 other = 'Información que recopilamos'
 [InfoWeCollectDesc]
