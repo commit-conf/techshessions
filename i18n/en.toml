@@ -39,13 +39,13 @@ other = "{{.Name}}'s avatar"
 [JoinTheProgramTitle]
 other = 'How do I join the program?'
 [JoinTheProgramDesc]
-other = 'Every year, we launch a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">Twitter</a>, in the <a href="./#newsletter">newsletter</a> and on our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
+other = 'Every year, we launch a new call for Tech SHEssions. We will announce it here, on <a href="https://www.twitter.com/techshessions">X</a>, in the <a href="./#newsletter">newsletter</a> and on our <a href="https://www.meetup.com/es-ES/Tech-SHEssions/">Meetup page</a>, so you can follow us to stay up to date with the latest news.'
 [ReadTermsAndConditions]
 other = '<a href="/en/terms-and-conditions" aria-label="You can read more about joining the program here" class="button primary">Read more here</a>'
 
 # Mentees
 [OurMentees]
-other = 'Our graduates'
+other = 'Graduates'
 [WantToBeAMentee]
 other = "Do you want to be a mentee?"
 [WantToBeAMenteeDesc]
@@ -57,7 +57,7 @@ other = '''<b>Attend talks and training activities</b> given by women who are re
 
 # Mentors
 [OurMentors]
-other = 'Our mentors'
+other = 'Mentors'
 [WantToBeAMentor]
 other = "Do you want to be a mentor?"
 [WantToBeAMentorDesc]
