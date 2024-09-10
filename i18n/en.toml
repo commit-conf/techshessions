@@ -31,7 +31,7 @@ other = 'This program includes training in oral communication, body language, an
 [LongTermObjectives]
 other = 'Mentors are volunteer IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
 [NextEdition]
-other = 'The registrations for the next edition will open in September, 2025.'
+other = 'Registrations for the next edition will open on October 1, 2024.'
 [AvatarAlt]
 other = "{{.Name}}'s avatar"
 
