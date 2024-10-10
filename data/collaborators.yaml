@@ -29,7 +29,7 @@
   img: making-science.jpg
   href: https://www.makingscience.com/
 - name: Kairós DS
-  img: kairos.png
+  img: kairósds.png
   href: https://www.kairosds.com/
 - name: Cryptocafé
   img: cryptocafe.png 
@@ -43,3 +43,6 @@
 - name: Celonis
   img: celonis.jpg 
   href: https://www.celonis.com/
+- name: Bravent
+  img: bravent.png 
+  href: https://www.bravent.net/ 
