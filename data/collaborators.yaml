@@ -52,3 +52,6 @@
 - name: ERNI
   img: erni.png 
   href: https://www.betterask.erni/  
+- name: Bluetab
+  img: bluetab.svg 
+  href: https://bluetab.net/es/    
