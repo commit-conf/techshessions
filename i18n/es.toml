@@ -25,13 +25,13 @@ other = 'Mentees'
 [Objectives]
 other = 'Objetivos de Tech SHEssions'
 [ObjectivesSummary]
-other = 'Tech SHEssions es un programa gratuito que se celebra en Madrid y que pretende empoderar mujeres para que participen como ponentes en eventos tecnológicos.'
+other = 'Tech SHEssions es un programa gratuito que se celebra en Madrid y que pretende empoderar mujeres para que participen como ponentes en eventos tecnológicos. El programa es presencial y también se lleva a cabo en Barcelona y Logroño. Si te gustaría organizar Tech SHEssions en otra ciudad, contáctanos.'
 [ProgramModel]
 other = 'El programa incluye formación en habilidades de comunicación oral, expresión corporal, métodos para superar el stress y gestionar situaciones de conflicto.'
 [LongTermObjectives]
 other = 'Las mentoras de Tech SHEssions son voluntarias profesionales del sector IT con amplia experiencia participando en la organización o presentando en eventos tecnológicos. Su misión es apoyar a las mentees a la hora de recrear el camino que ellas ya han recorrido, para contribuir a cerrar la brecha de género en el sector IT y fomentar que más mujeres consideren carreras de este sector.'
 [NextEdition]
-other = 'Inscríbete <a href="https://docs.google.com/forms/d/e/1FAIpQLScVEvL93b12YorFJ6lUpgodpQY8pqEsj2w-zVM3C3duG8Akgg/viewform">aquí</a> antes del 7 de octubre para participar en la próxima edición.'
+other = 'Las inscripciones para la próxima edición se abrirán en septiembre de 2025.'
 [AvatarAlt]
 other = 'Avatar de {{.Name}}'
 
