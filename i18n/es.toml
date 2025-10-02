@@ -31,7 +31,7 @@ other = 'El programa incluye formación en habilidades de comunicación oral, ex
 [LongTermObjectives]
 other = 'Las mentoras de Tech SHEssions son voluntarias profesionales del sector IT con amplia experiencia participando en la organización o presentando en eventos tecnológicos. Su misión es apoyar a las mentees a la hora de recrear el camino que ellas ya han recorrido, para contribuir a cerrar la brecha de género en el sector IT y fomentar que más mujeres consideren carreras de este sector.'
 [NextEdition]
-other = 'Las inscripciones para la próxima edición se abrirán en septiembre de 2025.'
+other = 'Las inscripciones para la próxima edición se abrirán en febrero de 2026.'
 [AvatarAlt]
 other = 'Avatar de {{.Name}}'
 
@@ -138,23 +138,23 @@ other = '<b>Training</b>. Se organizan charlas y webinars por mujeres sobre tema
 [ProgramCalendar]
 other = 'Calendario aproximado: <small>(a las participantes del programa se les entrega el calendario definitivo)</small>'
 [Registration]
-other = 'Comienzos de octubre: presentación de la nueva edición y apertura de las inscripciones.'
+other = 'Comienzos de febrero: presentación de la nueva edición y apertura de las inscripciones.'
 [Start]
-other = 'Comienzos de octubre: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
+other = 'Mediados de febrero: selección de las participantes, emparejamiento mentora/mentee y arranque del programa.'
 [FirstTrainingTalks]
-other = 'Finales de octubre: charlas formativas'
+other = 'Mediados de febrero: charlas formativas'
 [FirstMenteesTalks]
-other = 'Mediados de noviembre: primera charla (10m) de las mentees'
+other = 'Mediados de marzo: primera charla (10m) de las mentees'
 [FirstTrainingWebinars]
-other = 'Mediados de diciembre: charlas formativas'
+other = 'Comienzos de abril: charlas formativas'
 [SecondTrainingTalks]
-other = 'Mediados de diciembre: segunda charla (15m) de las mentees'
+other = 'Mediados de abril: segunda charla (15m) de las mentees'
 [SecondMenteesTalks]
-other = 'Mediados de enero: charlas formativas'
+other = 'Comienzos de mayo: charlas formativas'
 [ThirdTrainingTalks]
-other = 'Finales de enero: tercera charla (20m) de las mentees'
+other = 'Mediados de mayo: tercera charla (20m) de las mentees'
 [ThirdMenteesTalks]
-other = 'Finales de enero: graduación y finalización del programa'
+other = 'Finales de mayo: graduación y finalización del programa'
 
 [Requirements]
 other = 'Para participar en el programa TechSHEssions, debes aceptar las siguiente condiciones. Pedimos:'

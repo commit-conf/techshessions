@@ -31,7 +31,7 @@ other = 'This program includes training in oral communication, body language, an
 [LongTermObjectives]
 other = 'Mentors are volunteer IT professionals women with experience in the organization of tech events or speakers. Their goal is to teach and support the mentees with their own experience and knowledge.'
 [NextEdition]
-other = 'Registrations for the next edition will open in September 2025.'
+other = 'Registrations for the next edition will open in February 2026'
 [AvatarAlt]
 other = "{{.Name}}'s avatar"
 
@@ -138,23 +138,23 @@ other = '<b>Training</b>. Women give talks and webinars on useful topics for the
 [ProgramCalendar]
 other = 'Approximate calendar: <small>(we deliver the final calendar to the program participants)</small>'
 [Registration]
-other = 'Beg-October: presentation of the new edition and opening of the inscriptions.'
+other = 'Beg-February: presentation of the new edition and opening of the inscriptions.'
 [Start]
-other = 'Beg-October: the selection of participants, mentor/mentee pairings, and the start of the program.'
+other = 'Mid-February: the selection of participants, mentor/mentee pairings, and the start of the program.'
 [FirstTrainingTalks]
-other = 'End-October: training talks'
+other = 'Mid-February: training talks'
 [FirstMenteesTalks]
-other = 'Mid-November: first talk (10m) of the mentees'
+other = 'Mid-March: first talk (10m) of the mentees'
 [FirstTrainingWebinars]
-other = 'Mid-December: training talks'
+other = 'End-March: training talks'
 [SecondTrainingTalks]
-other = 'Mid-December: second talk (15m) of the mentees'
+other = 'Beg-April: second talk (15m) of the mentees'
 [SecondMenteesTalks]
-other = 'Mid-January: training talks'
+other = 'Mid-April: training talks'
 [ThirdTrainingTalks]
-other = 'End-January: third talk (20m) of the mentees'
+other = 'Mid-May: third talk (20m) of the mentees'
 [ThirdMenteesTalks]
-other = 'End-January: graduation and program conclusion'
+other = 'End-May: graduation and program conclusion'
 
 [Requirements]
 other = 'To participate in the TechSHEssions program, you must accept the following conditions. We require:'
