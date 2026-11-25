@@ -1,4 +1,4 @@
-The source code of Tech SHEssions. This project contains the source code of a website based on [hugo](https://github.com/gohugoio) and [node-sass](https://github.com/sass/node-sass). 
+The source code of Tech SHEssions. This project contains the source code of a website based on [hugo](https://github.com/gohugoio) and [Dart Sass](https://sass-lang.com/dart-sass/). 
 
 ```bash
 # Install hugo

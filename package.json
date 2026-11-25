@@ -15,12 +15,12 @@
     "@actions/core": "^1.10.0",
     "autoprefixer": "^10.4.14",
     "concurrently": "^8.2.1",
-    "node-sass": "^9.0.0",
     "postcss-cli": "^10.1.0",
+    "sass": "^1.108.2",
     "svgo": "^3.0.2"
   },
   "scripts": {
-    "compile:css": "node-sass src/scss/main.scss --output-style compressed | postcss -o static/css/main.css",
+    "compile:css": "sass --no-source-map --style=compressed --quiet-deps --silence-deprecation=import,global-builtin,color-functions src/scss/main.scss | postcss -o static/css/main.css",
     "test": "npm build && concurrently --kill-others --success first \"hugo server\" \"blc http://localhost:1313 -ro\"",
     "postversion": "git push && git push --tags",
     "watch:css": "npm run compile:css && inotifywait -m -r -e modify,create,delete ./src/scss/ | while read NEWFILE; do npm run compile:css; done",
